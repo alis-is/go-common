@@ -1,3 +1,3 @@
-module github.com/alis-is/go-common
+module go.alis.is/common
 
 go 1.25.7
